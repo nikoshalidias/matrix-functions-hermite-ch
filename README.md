@@ -19,7 +19,8 @@ All results are displayed with LaTeX/MathJax for readability.
 
 Click below to open the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nikoshalidias/matrix-functions-hermite-ch/blob/main/Minimum-Polynomial-Exponential%20Matrix.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nikoshalidias/matrix-functions-hermite-ch/blob/main/Minimum_Polynomial_Exponential_Matrix.ipynb)
+
 
 ---
 
