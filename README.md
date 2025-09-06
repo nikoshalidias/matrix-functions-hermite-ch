@@ -10,4 +10,4 @@ using real Hermite systems and the Cayley–Hamilton approach in Python (SymPy).
 
 ## Open in Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nikoshalidias/matrix-functions-hermite-ch/blob/main/matrix_functions.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nikoshalidias/matrix-functions-hermite-ch/blob/main/Minimum-Polynomial-Exponential%20Matrix.ipynb)
